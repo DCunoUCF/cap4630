@@ -10,4 +10,4 @@ Homework 2 (November 7, 2019)
 ----------
 Problem 1 (WIP)\
 Problem 2 (WIP)\
-Problem 3 (WIP)\
+Problem 3 (WIP)
