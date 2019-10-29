@@ -1,6 +1,6 @@
 # David Cuno's CAP 4630 Repository
 
-Homework 1
+Homework 1 (October 27, 2019)
 ----------
 [Problem 1](./Problem1.ipynb)
 
@@ -8,7 +8,7 @@ Homework 1
 
 [Problem 3](./HW_1_Problem_3.ipynb)
 
-Homework 2
+Homework 2 (November 7, 2019)
 ----------
 Problem 1 (WIP)
 
